@@ -1,0 +1,1 @@
+export const API_URL='https://receipe-app-api.vercel.app/api/'
